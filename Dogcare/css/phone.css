@@ -1,0 +1,21 @@
+body{
+    background-color: tomato;
+}
+/*Navigation section*/
+#navbar{
+    flex-direction: column;
+}
+/*Home section*/
+#home{
+    height: 280px;
+    
+}
+#home::before{
+    height: 400px;
+    
+}
+
+/*Services section*/
+#services{
+    flex-direction: column;
+}
